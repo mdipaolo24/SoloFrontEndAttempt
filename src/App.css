@@ -1,0 +1,44 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('./images/New-York.jpg') no-repeat center center fixed;
+  background-size: cover;
+  text-align: center;
+}
+
+.card {
+  top: 106px;
+  left: 420px;
+  width: 599px;
+  height: 689px;
+  background-color: rgba(73, 71, 71, 0.8); 
+  border-radius: 20px; 
+  box-shadow: 2px 0px 10px rgba(3, 3, 3, 0.1);
+  text-align: center;
+}
+
+h1 {
+  padding-top: 1cm;
+  color: #ffffff; 
+}
+h2 {
+  padding-top: 1cm;
+  color: #ffffff; 
+  padding-bottom: 2cm;
+}
+h3{
+  color: #ffffff; 
+  font-size: 20px;
+  padding-top: 0px;
+}
+h4{
+  color: #ffffff; 
+  font-size: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
